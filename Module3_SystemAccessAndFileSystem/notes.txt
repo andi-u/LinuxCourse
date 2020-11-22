@@ -1,0 +1,4 @@
+[root@MyFirstLinuxVM ~]# whoami
+root
+[root@MyFirstLinuxVM ~]# hostname
+MyFirstLinuxVM
